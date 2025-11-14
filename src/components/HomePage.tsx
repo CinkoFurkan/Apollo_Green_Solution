@@ -233,49 +233,49 @@ export function HomePage() {
                 className="flex gap-8 sm:gap-12 md:gap-16 items-center"
               >
                 {/* First set of logos */}
-                <div className="flex-shrink-0 w-24 h-16 sm:w-32 sm:h-20 md:w-40 md:h-24 flex items-center justify-center grayscale hover:grayscale-0 transition-all duration-300 opacity-60 hover:opacity-100 cursor-pointer">
+                <div className="flex-shrink-0 w-24 h-16 sm:w-32 sm:h-20 md:w-40 md:h-24 flex items-center justify-center transition-all duration-300 opacity-60 hover:opacity-100 cursor-pointer">
                   <img
                     src="https://www.apollo-gs.com/cdn/shop/files/images__2_-removebg-preview.png?v=1756463995&width=300"
                     alt="Partner 1"
                     className="max-w-full max-h-full object-contain"
                   />
                 </div>
-                <div className="flex-shrink-0 w-24 h-16 sm:w-32 sm:h-20 md:w-40 md:h-24 flex items-center justify-center grayscale hover:grayscale-0 transition-all duration-300 opacity-60 hover:opacity-100 cursor-pointer">
+                <div className="flex-shrink-0 w-24 h-16 sm:w-32 sm:h-20 md:w-40 md:h-24 flex items-center justify-center transition-all duration-300 opacity-60 hover:opacity-100 cursor-pointer">
                   <img
                     src="https://www.apollo-gs.com/cdn/shop/files/pvmaint_white_-n-removebg-preview.png?v=1756463712&width=300"
                     alt="Partner 2"
                     className="max-w-full max-h-full object-contain"
                   />
                 </div>
-                <div className="flex-shrink-0 w-24 h-16 sm:w-32 sm:h-20 md:w-40 md:h-24 flex items-center justify-center grayscale hover:grayscale-0 transition-all duration-300 opacity-60 hover:opacity-100 cursor-pointer">
+                <div className="flex-shrink-0 w-24 h-16 sm:w-32 sm:h-20 md:w-40 md:h-24 flex items-center justify-center transition-all duration-300 opacity-60 hover:opacity-100 cursor-pointer">
                   <img
                     src="https://www.apollo-gs.com/cdn/shop/files/BVES_LOGO_deutsch-removebg-preview.png?v=1756463809&width=300"
                     alt="Partner 3"
                     className="max-w-full max-h-full object-contain"
                   />
                 </div>
-                <div className="flex-shrink-0 w-24 h-16 sm:w-32 sm:h-20 md:w-40 md:h-24 flex items-center justify-center grayscale hover:grayscale-0 transition-all duration-300 opacity-60 hover:opacity-100 cursor-pointer">
+                <div className="flex-shrink-0 w-24 h-16 sm:w-32 sm:h-20 md:w-40 md:h-24 flex items-center justify-center transition-all duration-300 opacity-60 hover:opacity-100 cursor-pointer">
                   <img
                     src="https://www.apollo-gs.com/cdn/shop/files/images_3.png?v=1756464141&width=300"
                     alt="Partner 4"
                     className="max-w-full max-h-full object-contain"
                   />
                 </div>
-                <div className="flex-shrink-0 w-24 h-16 sm:w-32 sm:h-20 md:w-40 md:h-24 flex items-center justify-center grayscale hover:grayscale-0 transition-all duration-300 opacity-60 hover:opacity-100 cursor-pointer">
+                <div className="flex-shrink-0 w-24 h-16 sm:w-32 sm:h-20 md:w-40 md:h-24 flex items-center justify-center transition-all duration-300 opacity-60 hover:opacity-100 cursor-pointer">
                   <img
                     src="https://www.apollo-gs.com/cdn/shop/files/Gridty_Logo_primary_negative_white-green_1024px_RGB.jpg?v=1757941977&width=300"
                     alt="Partner 5"
                     className="max-w-full max-h-full object-contain"
                   />
                 </div>
-                <div className="flex-shrink-0 w-24 h-16 sm:w-32 sm:h-20 md:w-40 md:h-24 flex items-center justify-center grayscale hover:grayscale-0 transition-all duration-300 opacity-60 hover:opacity-100 cursor-pointer">
+                <div className="flex-shrink-0 w-24 h-16 sm:w-32 sm:h-20 md:w-40 md:h-24 flex items-center justify-center transition-all duration-300 opacity-60 hover:opacity-100 cursor-pointer">
                   <img
                     src="https://www.apollo-gs.com/cdn/shop/files/deutsch_griechische_industrie__und_handelskammer_logo-removebg-preview.png?v=1756463514&width=300"
                     alt="Partner 6"
                     className="max-w-full max-h-full object-contain"
                   />
                 </div>
-                <div className="flex-shrink-0 w-24 h-16 sm:w-32 sm:h-20 md:w-40 md:h-24 flex items-center justify-center grayscale hover:grayscale-0 transition-all duration-300 opacity-60 hover:opacity-100 cursor-pointer">
+                <div className="flex-shrink-0 w-24 h-16 sm:w-32 sm:h-20 md:w-40 md:h-24 flex items-center justify-center transition-all duration-300 opacity-60 hover:opacity-100 cursor-pointer">
                   <img
                     src="https://www.apollo-gs.com/cdn/shop/files/NEONTO-revisi1.png?v=1762178155&width=300"
                     alt="Partner 7"
@@ -284,49 +284,49 @@ export function HomePage() {
                 </div>
                 
                 {/* Duplicate set for seamless infinite loop */}
-                <div className="flex-shrink-0 w-24 h-16 sm:w-32 sm:h-20 md:w-40 md:h-24 flex items-center justify-center grayscale hover:grayscale-0 transition-all duration-300 opacity-60 hover:opacity-100 cursor-pointer">
+                <div className="flex-shrink-0 w-24 h-16 sm:w-32 sm:h-20 md:w-40 md:h-24 flex items-center justify-center transition-all duration-300 opacity-60 hover:opacity-100 cursor-pointer">
                   <img
                     src="https://www.apollo-gs.com/cdn/shop/files/images__2_-removebg-preview.png?v=1756463995&width=300"
                     alt="Partner 1"
                     className="max-w-full max-h-full object-contain"
                   />
                 </div>
-                <div className="flex-shrink-0 w-24 h-16 sm:w-32 sm:h-20 md:w-40 md:h-24 flex items-center justify-center grayscale hover:grayscale-0 transition-all duration-300 opacity-60 hover:opacity-100 cursor-pointer">
+                <div className="flex-shrink-0 w-24 h-16 sm:w-32 sm:h-20 md:w-40 md:h-24 flex items-center justify-center transition-all duration-300 opacity-60 hover:opacity-100 cursor-pointer">
                   <img
                     src="https://www.apollo-gs.com/cdn/shop/files/pvmaint_white_-n-removebg-preview.png?v=1756463712&width=300"
                     alt="Partner 2"
                     className="max-w-full max-h-full object-contain"
                   />
                 </div>
-                <div className="flex-shrink-0 w-24 h-16 sm:w-32 sm:h-20 md:w-40 md:h-24 flex items-center justify-center grayscale hover:grayscale-0 transition-all duration-300 opacity-60 hover:opacity-100 cursor-pointer">
+                <div className="flex-shrink-0 w-24 h-16 sm:w-32 sm:h-20 md:w-40 md:h-24 flex items-center justify-center transition-all duration-300 opacity-60 hover:opacity-100 cursor-pointer">
                   <img
                     src="https://www.apollo-gs.com/cdn/shop/files/BVES_LOGO_deutsch-removebg-preview.png?v=1756463809&width=300"
                     alt="Partner 3"
                     className="max-w-full max-h-full object-contain"
                   />
                 </div>
-                <div className="flex-shrink-0 w-24 h-16 sm:w-32 sm:h-20 md:w-40 md:h-24 flex items-center justify-center grayscale hover:grayscale-0 transition-all duration-300 opacity-60 hover:opacity-100 cursor-pointer">
+                <div className="flex-shrink-0 w-24 h-16 sm:w-32 sm:h-20 md:w-40 md:h-24 flex items-center justify-center transition-all duration-300 opacity-60 hover:opacity-100 cursor-pointer">
                   <img
                     src="https://www.apollo-gs.com/cdn/shop/files/images_3.png?v=1756464141&width=300"
                     alt="Partner 4"
                     className="max-w-full max-h-full object-contain"
                   />
                 </div>
-                <div className="flex-shrink-0 w-24 h-16 sm:w-32 sm:h-20 md:w-40 md:h-24 flex items-center justify-center grayscale hover:grayscale-0 transition-all duration-300 opacity-60 hover:opacity-100 cursor-pointer">
+                <div className="flex-shrink-0 w-24 h-16 sm:w-32 sm:h-20 md:w-40 md:h-24 flex items-center justify-center transition-all duration-300 opacity-60 hover:opacity-100 cursor-pointer">
                   <img
                     src="https://www.apollo-gs.com/cdn/shop/files/Gridty_Logo_primary_negative_white-green_1024px_RGB.jpg?v=1757941977&width=300"
                     alt="Partner 5"
                     className="max-w-full max-h-full object-contain"
                   />
                 </div>
-                <div className="flex-shrink-0 w-24 h-16 sm:w-32 sm:h-20 md:w-40 md:h-24 flex items-center justify-center grayscale hover:grayscale-0 transition-all duration-300 opacity-60 hover:opacity-100 cursor-pointer">
+                <div className="flex-shrink-0 w-24 h-16 sm:w-32 sm:h-20 md:w-40 md:h-24 flex items-center justify-center transition-all duration-300 opacity-60 hover:opacity-100 cursor-pointer">
                   <img
                     src="https://www.apollo-gs.com/cdn/shop/files/deutsch_griechische_industrie__und_handelskammer_logo-removebg-preview.png?v=1756463514&width=300"
                     alt="Partner 6"
                     className="max-w-full max-h-full object-contain"
                   />
                 </div>
-                <div className="flex-shrink-0 w-24 h-16 sm:w-32 sm:h-20 md:w-40 md:h-24 flex items-center justify-center grayscale hover:grayscale-0 transition-all duration-300 opacity-60 hover:opacity-100 cursor-pointer">
+                <div className="flex-shrink-0 w-24 h-16 sm:w-32 sm:h-20 md:w-40 md:h-24 flex items-center justify-center transition-all duration-300 opacity-60 hover:opacity-100 cursor-pointer">
                   <img
                     src="https://www.apollo-gs.com/cdn/shop/files/NEONTO-revisi1.png?v=1762178155&width=300"
                     alt="Partner 7"
